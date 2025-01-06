@@ -1,8 +1,8 @@
 <h2 align="center">
-Interactive-Resume-Builder - V2.0 <br/>
+Drum-Kit <br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./resume-builder-img.png" />
+  <img alt="Demo" src="./drum-kit.png" />
 </div>
 
 <br/>
