@@ -27,6 +27,9 @@ Drum-Kit <br/>
 ## TL;DR
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ManojParkale](https://github.com/ManojParkale/Drum-Kit). Thanks!
+<br/>
+
+A Drum-Kit project that produces dynamic drum band sounds with the press of buttons, ideal for creating rhythmic beats and musical performances.
 
 ## Built With
 
